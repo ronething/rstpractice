@@ -13,7 +13,7 @@
    helloworld
    other
 
-学习使用 rst 书写文档
+学习使用 rst 书写文档
 
 `Sphinx 使用手册 <https://zh-sphinx-doc.readthedocs.io/en/latest/index.html>`_
 
